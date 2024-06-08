@@ -1,6 +1,6 @@
 .wrapper{
     margin: 0 auto;
-    width: 480px;
+    min-width: 480px;
     background: #fff;
 }
 .header_title{
